@@ -11,7 +11,10 @@
     <link rel="stylesheet" href="{{asset('/main/css/custom.css')}}">
 </head>
 <body>
-<section style="padding:20px">
+    <div class="container">
+        <h1 style="font-size: 55px"><span style="color:red">Stock</span><span style="color:black">Media</span></h1>
+    </div>
+<section style="padding:3px">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
