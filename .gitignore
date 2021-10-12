@@ -4,8 +4,6 @@
 /public/.htaccess
 /storage/*.key
 /vendor
-.env
-.env.example
 .env.backup
 .phpunit.result.cache
 docker-compose.override.yml
@@ -15,4 +13,3 @@ npm-debug.log
 yarn-error.log
 /.idea
 /.vscode
-Procfile
